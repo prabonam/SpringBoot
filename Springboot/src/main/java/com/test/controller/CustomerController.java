@@ -4,7 +4,7 @@
 package com.test.controller;
 
 /**
- * @author Prasad_Bonam
+ * @author Prasad_Bonam 
  *
  */
 
@@ -14,8 +14,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 //import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
-
-import com.test.dto.Customer;
+ 
 
 @RestController
 public class CustomerController {
